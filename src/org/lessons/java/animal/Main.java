@@ -33,10 +33,10 @@ public class Main {
 
     }
 
-    public static void swimming(CanSwim animal) {
-        animal.swim();
+    public static void swimming(CanSwim object) {
+        object.swim();
     }
-    public static void flying(CanFly animal) {
-        animal.fly();
+    public static void flying(CanFly object) {
+        object.fly();
     }
 }
