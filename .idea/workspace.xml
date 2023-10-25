@@ -4,19 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="656d65c0-f099-4328-8038-273cf96d6e95" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-animals.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/lessons/java/animal/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/lessons/java/animal/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/lessons/java/animal/Dolphin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/lessons/java/animal/Eagle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/lessons/java/animal/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/lessons/java/animal/Sparrow.java" afterDir="false" />
+    <list default="true" id="656d65c0-f099-4328-8038-273cf96d6e95" name="Changes" comment="add step 1">
+      <change afterPath="$PROJECT_DIR$/src/org/lessons/java/animal/CanFly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/lessons/java/animal/CanSwim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/lessons/java/animal/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/animal/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/lessons/java/animal/Dolphin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/animal/Dolphin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/lessons/java/animal/Eagle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/animal/Eagle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/lessons/java/animal/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/animal/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/lessons/java/animal/Sparrow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/animal/Sparrow.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -79,6 +76,19 @@
       <option name="presentableId" value="Default" />
       <updated>1698235662876</updated>
     </task>
+    <task id="LOCAL-00001" summary="add step 1">
+      <option name="closed" value="true" />
+      <created>1698237923308</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698237923308</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add step 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="add step 1" />
   </component>
 </project>

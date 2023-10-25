@@ -3,6 +3,7 @@ package org.lessons.java.animal;
 public class Main {
     public static void main(String[] args) {
 
+        // STEP 1
         Dog rex = new Dog("Rex");
         rex.eat();
         rex.noise();
@@ -19,5 +20,16 @@ public class Main {
         mike.eat();
         mike.noise();
         mike.sleep();
+
+        // STEP 2
+        Animal[] animals = {rex, flipper, bruce, mike};
+        for (Animal animal : animals) {
+            if (animal instanceof CanSwim) {
+                ((CanSwim) animal).swim();
+            } else if (animal instanceof CanFly) {
+                ((CanFly) animal).fly();
+            }
+        }
+
     }
 }
