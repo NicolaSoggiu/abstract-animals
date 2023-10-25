@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="656d65c0-f099-4328-8038-273cf96d6e95" name="Changes" comment="fix the step 2 with the metod swimming and flying in main">
-      <change beforePath="$PROJECT_DIR$/src/org/lessons/java/animal/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/animal/Main.java" afterDir="false" />
+    <list default="true" id="656d65c0-f099-4328-8038-273cf96d6e95" name="Changes" comment="change the input name in the method">
+      <change afterPath="$PROJECT_DIR$/src/org/lessons/java/tech/Creator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/lessons/java/tech/DVDPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/lessons/java/tech/Device.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/lessons/java/tech/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/lessons/java/tech/Playstation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +45,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Utente/OneDrive/Desktop/Lavoro/Experis Academy/Esercizi/abstract-animals/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.org.lessons.java.tech.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.lessons.java.animal.Main" />
       <module name="abstract-animals" />
@@ -54,8 +59,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="org.lessons.java.tech.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.lessons.java.tech.Main" />
+      <module name="abstract-animals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lessons.java.tech.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.lessons.java.tech.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -93,13 +112,22 @@
       <option name="project" value="LOCAL" />
       <updated>1698240552765</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="change the input name in the method">
+      <option name="closed" value="true" />
+      <created>1698240774234</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698240774234</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add step 1" />
     <MESSAGE value="add step 2" />
     <MESSAGE value="fix the step 2 with the metod swimming and flying in main" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix the step 2 with the metod swimming and flying in main" />
+    <MESSAGE value="change the input name in the method" />
+    <option name="LAST_COMMIT_MESSAGE" value="change the input name in the method" />
   </component>
 </project>
