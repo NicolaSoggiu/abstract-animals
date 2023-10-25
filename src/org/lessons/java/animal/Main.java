@@ -25,11 +25,18 @@ public class Main {
         Animal[] animals = {rex, flipper, bruce, mike};
         for (Animal animal : animals) {
             if (animal instanceof CanSwim) {
-                ((CanSwim) animal).swim();
+                swimming((CanSwim) animal);
             } else if (animal instanceof CanFly) {
-                ((CanFly) animal).fly();
+                flying((CanFly) animal);
             }
         }
 
+    }
+
+    public static void swimming(CanSwim animal) {
+        animal.swim();
+    }
+    public static void flying(CanFly animal) {
+        animal.fly();
     }
 }
